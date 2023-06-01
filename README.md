@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">An inquisitive Graphic and UX/UI designer</h3>
 <br>
 <p align="center">
-    <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" />
+    <img src="" />
 </p>   
 <h2> 🌈 &nbsp;About Me:</h2>
 
