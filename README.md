@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2> 🌈 &nbsp;About Me:</h2>
 
 ```yaml
-name: Sukriti Maurya
+name: Janvi
 pronouns: She/Her
-located_in: Ghaziabad, India
-education: B.Tech. 3rd Year Student @AKGEC,Ghaziabad
+located_in: Delhi, India
+education: B.Tech. 3rd Year Student @Maharaja Surajmal Institute,Delhi
