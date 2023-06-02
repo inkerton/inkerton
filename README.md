@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 name: Janvi
 pronouns: She/Her
 located_in: Delhi, India
-education: B.Tech. 3rd Year Student @Maharaja Surajmal Institute,Delhi
+education: BCA. 2nd Year Student @Maharaja Surajmal Institute,Delhi
