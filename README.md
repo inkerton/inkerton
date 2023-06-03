@@ -27,3 +27,10 @@ name: Janvi
 pronouns: She/Her
 located_in: Delhi, India
 education: BCA. 2nd Year Student @Maharaja Surajmal Institute,Delhi
+fields_of_interests:
+  [
+    "Web Development",
+    "UX/UI Designing",
+  ]
+hobbies: ["Photography", "Designing"]
+```
