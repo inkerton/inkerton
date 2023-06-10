@@ -31,6 +31,7 @@ fields_of_interests:
   [
     "Machine Learning",
     "UX/UI Designing",
+    "Graphic Designing",
   ]
 hobbies: ["Photography", "Designing"]
 ```
