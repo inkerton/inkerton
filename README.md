@@ -39,7 +39,7 @@ hobbies: ["Photography", "Designing"]
 [<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 <table>
-<h2> Github Stats: </h2>
+<h2> Productivity Stats: </h2>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=inkerton&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
