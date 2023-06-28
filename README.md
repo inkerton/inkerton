@@ -37,6 +37,7 @@ hobbies: ["Photography", "Designing"]
 ```
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
 [<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvi choudhary" height="30" width="40" /></a>
 <br>
 <table>
 <h2> Productivity Stats: </h2>
