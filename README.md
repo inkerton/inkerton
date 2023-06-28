@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey There! 👋 I'm Janvi ✨</h1>
-<h3 align="center">An inquisitive Graphic designer and open-source enthusiast</h3>
+<h3 align="center">An inquisitive Graphic designer and Open-Source Enthusiast</h3>
 <br>
 <p align="center">
     <img src="https://github.com/inkerton/inkerton/blob/main/gitartwork.svg" />
