@@ -44,9 +44,8 @@ hobbies: ["Coding", "Designing", "Drawing"]
 <a href="https://discord.gg/janvi....." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janvi Choudhary" height="30" width="40" /></a>
 <br> 
 
-<table>
-<h2> Productivity Stats: 
-    <img align="right" alt="coding" width="150" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"> </h2>
+<table> <img align="right" alt="coding" width="125" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"> 
+<h2> Productivity Stats: </h2>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=inkerton&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
