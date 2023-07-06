@@ -33,7 +33,7 @@ fields_of_interests:
     "UX/UI Designing",
     "Graphic Designing",
   ]
-hobbies: ["Photography", "Designing"]
+hobbies: ["Coding", "Designing"]
 ```
 <!--
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
