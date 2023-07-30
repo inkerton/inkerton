@@ -113,5 +113,6 @@ hobbies: ["Coding", "Designing", "Drawing"]
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=inkerton&color=CB99FC&style=for-the-badge">
+-->
