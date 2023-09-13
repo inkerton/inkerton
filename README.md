@@ -54,6 +54,9 @@ hobbies: ["Coding", "Designing", "Drawing"]
 <br> 
 
 <table>  
+
+
+    
 <h2> Productivity Stats: </h2>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
