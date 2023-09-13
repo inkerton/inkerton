@@ -49,10 +49,11 @@ hobbies: ["Coding", "Designing", "Drawing"]
 <a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="30" width="40" /></a>
 <a href="https://discord.gg/janvi....." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janvi Choudhary" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/3fef2515-fe81-4468-9904-b2aa3487cd99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Janvi Choudhary" height="100" width="140" /></a>
-<a href="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="GMAIL" height="30" width="40" /></a>
+<a href="mailto:janvichoudhary@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="GMAIL" height="30" width="40" /></a>
 
 <img align="right" alt="coding" width="150" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 <br> 
+
 <table>  
 
 
