@@ -61,7 +61,7 @@ hobbies: ["Coding", "Designing", "Drawing"]
     
 <h2>🌀⚡Productivity Stats: </h2>
   <tr>
-    <td style="width:60%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td style="width:160pm"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=inkerton&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
   </tr>
 </table>
