@@ -29,12 +29,13 @@ Here are some ideas to get you started:
 name: Janvi
 pronouns: She/Her
 located_in: Delhi, India
-education: BCA. 2nd Year Student @Maharaja Surajmal Institute,Delhi
+education: BCA. Final Year Student @Maharaja Surajmal Institute,Delhi
 fields_of_interests:
   [
     "Machine Learning",
     "UX/UI Designing",
     "Graphic Designing",
+    "Cloud Computing"
   ]
 hobbies: ["Coding", "Designing", "Drawing"]
 ```
