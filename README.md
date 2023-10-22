@@ -37,7 +37,7 @@ fields_of_interests:
     "Graphic Designing",
     "Cloud Computing"
   ]
-hobbies: ["Coding", "Designing", "Drawing"]
+hobbies: ["Coding", "Designing", "Sketching"]
 ```
 <!--
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
