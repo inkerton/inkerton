@@ -50,7 +50,7 @@ hobbies: ["Coding", "Designing", "Sketching"]
 
 
 <h2> 📞Let's Connect at:</h2>
-<a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="35" width="40" /></a>
 <a href="https://discord.com/users/janvi2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janvi Choudhary" height="40" width="40" /></a>
 <a href="https://medium.com/@janvichoudhary116" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="Janvi Choudhary" height="40" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/3fef2515-fe81-4468-9904-b2aa3487cd99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Janvi Choudhary" height="100" width="140" /></a>
