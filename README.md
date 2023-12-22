@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey There! 👋 I'm Janvi ✨</h1>
+<h3 align="center">SIH2023 Winner</h3>
 <h3 align="center">An inquisitive Graphic designer and Open-Source Enthusiast</h3>
 <br>
 <p align="center">
