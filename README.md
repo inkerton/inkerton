@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github.com/inkerton/inkerton/blob/main/gitartwork.svg" />
 </p>   
-
+Reach me at [janvichoudhary116@gmail.com]: (mailto:janvichoudhary116@gmail.com)
 
 
 <h2> 🌈 &nbsp;About Me:</h2>
@@ -39,7 +39,6 @@ fields_of_interests:
     "Cloud Computing"
   ]
 hobbies: ["Coding", "Designing", "Blogging"]
-Reach me at [janvichoudhary116@gmail.com]: (mailto:janvichoudhary116@gmail.com)
 ```
 <!--
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
