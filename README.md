@@ -39,6 +39,7 @@ fields_of_interests:
     "Cloud Computing"
   ]
 hobbies: ["Coding", "Designing", "Blogging"]
+Reach me at [janvichoudhary116@gmail.com]: (mailto:janvichoudhary116@gmail.com)
 ```
 <!--
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
