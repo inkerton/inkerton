@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 name: Janvi
 pronouns: She/Her
 located_in: Delhi, India
-education: BCA. Final Year Student @Maharaja Surajmal Institute,Delhi
+education: BCA Graduate
 fields_of_interests:
   [
-    "Machine Learning",
+    "Frontend Development",
     "UX/UI Designing",
     "Graphic Designing",
     "Cloud Computing"
   ]
-hobbies: ["Coding", "Designing", "Blogging"]
+hobbies: ["Full-stack Development", "Designing", "Blogging", "SaaS Building"]
 ```
 <!--
 [linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
